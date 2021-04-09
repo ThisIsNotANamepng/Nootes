@@ -15,3 +15,6 @@ If you're having trouble getting it to work, try using
 
 in the shell
 
+
+
+The TXTMaker.py will make 10 txt files with a different hash, so people looking will see many more random files without knowing which one is real
