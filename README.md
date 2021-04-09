@@ -9,8 +9,9 @@ There is no function to edit yet
 
 NOTE: This is not a serious tool. To my knowledge, neither libaries used have been audited by a third party. If you are up against anyone other than a casual onlooker, I suggest you find other software.
 
-If you're having trouble getting it to work, try using in the shell
+If you're having trouble getting it to work, try using
 
      pip install cryptocode     
 
+in the shell
 
